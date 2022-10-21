@@ -22,7 +22,7 @@ To contact me : <a href="mailto:thaynaramendss@gmail.com">thaynaramendss@gmail.c
 
 Passionate about Linux and coffee. I work as a Devops at 4linux I am an instructor of the courses: Agile Infrastructure with DevOps Practices and Elastic Stack Specialist.
 
-### Operational skills
+## Operational skills
 
 > Linux ; Git ; Python ; Docker ; Ansible ; Elasticsearch ; Logstash ; Kibana ; Graylog ; Prometheus ; Grafana ; Kubernetes ; Jenkins ; AWS ;
 
@@ -32,7 +32,7 @@ Passionate about Linux and coffee. I work as a Devops at 4linux I am an instruct
 `2016-2019` Computer Science, UniCEUB
 
 
-### Professional activities
+## Professional activities
 
 `June 2022 - now`
 __4linux__,   
@@ -73,7 +73,7 @@ _Technical support_
 
 
 
-<!-- ### Footer
-Updated Thursday, October 20, 2022 -->
-
+<div id="footer">
+Updated Thursday, October 20, 2022.
+</div>
 
