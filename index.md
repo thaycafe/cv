@@ -1,91 +1,79 @@
 ---
 layout: cv
-title: Isaac Newtons's CV
+title: Thaynara Mendes
 ---
-# Isaac Newton
-Physicist, Mathematician, Cambridge professor.
+
+# Thaynara Mendes
+Linux Enthusiast | Devops Analyst.
 
 <div id="webaddress">
-<a href="isaac@applesdofall.org">isaac@applesdofall.org</a>
-| <a href="http://en.wikipedia.org/wiki/Isaac_Newton">My wikipedia page</a>
+<a href="https://thaycafe.github.io/cv/curriculum.pdf">[Download CV in PDF]</a>
+</div>
+
+
+<div id="webaddress">
+To contact me : <a href="mailto:thaynaramendss@gmail.com">thaynaramendss@gmail.com</a>
+| <a href="https://github.com/thaycafe">Github</a>
+| <a href="https://www.linkedin.com/in/thaynaramendss/">linkedin</a>
 </div>
 
 
 ## Currently
 
-Standing on the shoulders of giants
+Passionate about Linux and coffee. I work as a Devops at 4linux I am an instructor of the courses: Agile Infrastructure with DevOps Practices and Elastic Stack Specialist.
 
-### Specialized in
+### Operational skills
 
-Laws of motion, gravitation, minting coins, disliking [Robert Hooke](http://en.wikipedia.org/wiki/Robert_Hooke)
-
-
-### Research interests
-
-Cooling, power series, optics, alchemy, planetary motions, apples.
+> Linux ; Git ; Python ; Docker ; Ansible ; Elasticsearch ; Logstash ; Kibana ; Graylog ; Prometheus ; Grafana ; Kubernetes ; Jenkins ; AWS ;
 
 
 ## Education
 
-`1654-1660`
-__The King's School, Grantham.__
-
-`June 1661 - now`
-__Trinity College, Cambridge__
-
-- Sizar
-
-`1667 - death`
-__Trinity College, Cambridge__
-
-- Fellow
+`2016-2019` - Computer Science, UniCEUB
 
 
+### Professional activities
 
-## Awards
+`June 2022 - now`
+__4linux__,   
+_Devops Analyst_
 
-`2012`
-President, *Royal Society*, London, UK
+IT consultant
+ - Configuration management with Ansible and AWX
+ - Consultancy on monitoring projects with Prometheus and Grafana
+ - Consulting on log monitoring projects with ELG and ELK stack
+ - Consulting on projects using Elastic Stack
+ - Consulting projects using Kubernetes
 
-Associate, *French Academy of Science*, Paris, France
-
-
-
-## Publications
-
-<!-- A list is also available [online](http://scholar.google.co.uk/citations?user=LTOTl0YAAAAJ) -->
-
-### Journals
-
-`1669`
-Newton Sir I, De analysi per æquationes numero terminorum infinitas. 
-
-`1669`
-Lectiones opticæ.
-
-etc. etc. etc.
-
-### Patents
-
-`2012`
-Infinitesimal calculus for solutions to physics problems, [SMBC](http://www.techdirt.com/articles/20121011/09312820678/if-patents-had-been-around-time-newton.shtml) patent 001
+Instructor
+ - Agile Infrastructure and Devops practices Course
+ - Elastic Stack Specialist Course
 
 
-## Occupation
+`January 2020 - September 2020`
+__Configr__
+_Python development_
 
-`1600`
-__Royal Mint__, London
+- Backend development in Python language
 
-- Warden
-- Minted coins
 
-`1600`
-__Lucasian professor of Mathematics__, Cambridge University
+`August 2019 - January 2020`
+__Configr__
+_Technical support_
+
+- Migration Support
+- Ticket service from the migration team
+- Website configuration on Linux servers
+
+
+
+## Certified
+
+`2021` - _LPIC-1 - Linux Admnistrador_
 
 
 
 <!-- ### Footer
-
-Last updated: May 2013 -->
+Updated Thursday, October 20, 2022 -->
 
 
