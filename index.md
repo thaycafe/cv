@@ -7,7 +7,7 @@ title: Thaynara Mendes
 Linux Enthusiast | Devops Analyst.
 
 <div id="webaddress">
-<a href="https://thaycafe.github.io/cv/ThaynaraMendes-CV.pdf">[Download CV in PDF]</a>
+<a href="https://thaycafe.github.io/cv/ThaynaraMendes_CV.pdf">[Download CV in PDF]</a>
 </div>
 
 
