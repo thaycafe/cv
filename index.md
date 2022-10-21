@@ -29,7 +29,7 @@ Passionate about Linux and coffee. I work as a Devops at 4linux I am an instruct
 
 ## Education
 
-`2016-2019` - Computer Science, UniCEUB
+`2016-2019` Computer Science, UniCEUB
 
 
 ### Professional activities
@@ -69,7 +69,7 @@ _Technical support_
 
 ## Certified
 
-`2021` - _LPIC-1 - Linux Admnistrador_
+`2021`  _LPIC-1 - Linux Admnistrador_
 
 
 
