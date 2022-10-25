@@ -35,6 +35,7 @@ Passionate about Linux and coffee. I work as a Devops at 4linux I am an instruct
 ## Professional activities
 
 `June 2022 - now`
+
 __4linux__,   
 _Devops Analyst_
 
@@ -51,6 +52,7 @@ Instructor
 
 
 `January 2020 - September 2020`
+
 __Configr__
 _Python development_
 
@@ -58,6 +60,7 @@ _Python development_
 
 
 `August 2019 - January 2020`
+
 __Configr__
 _Technical support_
 
@@ -69,9 +72,18 @@ _Technical support_
 
 ## Certified
 
-`2021`  _LPIC-1 - Linux Admnistrador_
+`2021`  _LPIC-1 Linux Admnistrador_
 
 
+## Languages
+
+__English__ - Intermediate
+
+
+## Other Information
+
+- Python programming tutor at college
+- Speaker at Campus Party on Opensearch [[lecture repository](https://github.com/thaycafe/opensearch_lab_CPGO)]
 
 <div id="footer">
 Updated Thursday, October 20, 2022.
