@@ -34,7 +34,14 @@ Passionate about Linux and coffee. I work as a Devops at 4linux I am an instruct
 
 ## Professional activities
 
-`June 2022 - now`
+`Jan 2023 - now`
+
+__Fundação Certi__,   
+_Devops Analyst_
+
+
+
+`September 2020 - December 2022`
 
 __4linux__,   
 _Devops Analyst_
@@ -86,6 +93,6 @@ __English__ - Intermediate
 - Speaker at Campus Party on Opensearch [[lecture repository](https://github.com/thaycafe/opensearch_lab_CPGO)]
 
 <div id="footer">
-Updated Thursday, October 20, 2022.
+Updated Monday, December 26, 2022.
 </div>
 
