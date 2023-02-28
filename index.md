@@ -24,7 +24,7 @@ Passionate about Linux and coffee. I work as a Devops at 4linux I am an instruct
 
 ## Operational skills
 
-> Linux ; Git ; Python ; Docker ; Ansible ; Elasticsearch ; Logstash ; Kibana ; Graylog ; Prometheus ; Grafana ; Kubernetes ; Jenkins ; AWS ;
+> Linux ; Git ; Python ; Docker ; Ansible ; Elasticsearch ; Logstash ; Kibana ; Graylog ; Prometheus ; Grafana ; Terraform ; Kubernetes ; CI/CD ; Jenkins ; AWS ;
 
 
 ## Education
