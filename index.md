@@ -84,7 +84,7 @@ _Technical support_
 
 ## Languages
 
-__English__ - Intermediate
+__English__ - Advanced
 
 
 ## Other Information
@@ -92,7 +92,4 @@ __English__ - Intermediate
 - Python programming tutor at college
 - Speaker at Campus Party on Opensearch [[lecture repository](https://github.com/thaycafe/opensearch_lab_CPGO)]
 
-<div id="footer">
-Updated Monday, December 26, 2022.
-</div>
 
