@@ -41,7 +41,7 @@ _Devops Engineer_
 
 Responsible for all devops processes of applications such as: creation of CI/CD pipelines using Bitbucket, unit tests, management and deployment of application images on AWS and monitoring. All applications are from the BIM project by Certi with Petrobras.
 
-Key Technologies: Linux, AWS, BitBucket, CI/CD, Docker, Kubernetes.
+Key Technologies: Linux, AWS, BitBucket, CI/CD, Docker, Scrum, Kubernetes.
 
 
 
