@@ -4,7 +4,7 @@ title: Thaynara Mendes
 ---
 
 # Thaynara Mendes
-Linux Enthusiast | Devops Analyst.
+Linux Enthusiast | Devops Engineer.
 
 <div id="webaddress">
 <a href="https://thaycafe.github.io/cv/ThaynaraMendes_CV.pdf">[Download CV in PDF]</a>
@@ -20,11 +20,11 @@ To contact me : <a href="mailto:thaynaramendss@gmail.com">thaynaramendss@gmail.c
 
 ## Currently
 
-Passionate about Linux and coffee. I work as a Devops at 4linux I am an instructor of the courses: Agile Infrastructure with DevOps Practices and Elastic Stack Specialist.
+Passionate about Linux and coffee. I work as a Devops at Certi in partnership with Petrobras,  I am an instructor of the courses: Agile Infrastructure with DevOps Practices and Elastic Stack Specialist.
 
 ## Operational skills
 
-> Linux ; Git ; Python ; Docker ; Ansible ; Elasticsearch ; Logstash ; Kibana ; Graylog ; Prometheus ; Grafana ; Terraform ; Kubernetes ; CI/CD ; Jenkins ; AWS ;
+> Linux ; Git ; Python ; Docker ; Ansible ; Elasticsearch ; Logstash ; Kibana ; Graylog ; Prometheus ; Grafana ; Terraform ; Kubernetes ; CI/CD ; Bitbucket ; Jenkins ; AWS ; 
 
 
 ## Education
@@ -36,8 +36,12 @@ Passionate about Linux and coffee. I work as a Devops at 4linux I am an instruct
 
 `Jan 2023 - now`
 
-__Fundação Certi__,   
-_Devops Analyst_
+__Certi__,   
+_Devops Engineer_
+
+Responsible for all devops processes of applications such as: creation of CI/CD pipelines using Bitbucket, unit tests, management and deployment of application images on AWS and monitoring. All applications are from the BIM project by Certi with Petrobras.
+
+Key Technologies: Linux, AWS, BitBucket, CI/CD, Docker, Kubernetes.
 
 
 
@@ -91,5 +95,3 @@ __English__ - Advanced
 
 - Python programming tutor at college
 - Speaker at Campus Party on Opensearch [[lecture repository](https://github.com/thaycafe/opensearch_lab_CPGO)]
-
-
