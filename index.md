@@ -20,11 +20,11 @@ To contact me : <a href="mailto:thaynaramendss@gmail.com">thaynaramendss@gmail.c
 
 ## Currently
 
-Passionate about Linux and coffee. I work as a Devops at Certi in partnership with Petrobras,  I am an instructor of the courses: Agile Infrastructure with DevOps Practices and Elastic Stack Specialist.
+Passionate about Linux and coffee. I am a Devops Engineer, consultant and instructor. Throughout my career I developed Elastic Stack Specialist and Devops Practices courses.
 
 ## Operational skills
 
-> Linux ; Git ; Python ; Docker ; Ansible ; Elasticsearch ; Logstash ; Kibana ; Graylog ; Prometheus ; Grafana ; Terraform ; Kubernetes ; CI/CD ; Bitbucket ; Jenkins ; AWS ; 
+> Linux ; Git ; Python ; Docker ; Ansible ; Elasticsearch ; Logstash ; Kibana ; AWS ; Graylog ; Prometheus ; Grafana ; Terraform ; Kubernetes ; CI/CD ; Bitbucket ; Jenkins ; 
 
 
 ## Education
@@ -34,6 +34,7 @@ Passionate about Linux and coffee. I work as a Devops at Certi in partnership wi
 
 ## Professional activities
 
+
 `Jan 2023 - now`
 
 __Certi__,   
@@ -42,6 +43,19 @@ _Devops Engineer_
 Responsible for all devops processes of applications such as: creation of CI/CD pipelines using Bitbucket, unit tests, management and deployment of application images on AWS and monitoring. All applications are from the BIM project by Certi with Petrobras.
 
 Key Technologies: Linux, AWS, BitBucket, CI/CD, Docker, Scrum, Kubernetes.
+
+
+
+
+`Jun 2023 - now`
+
+__Beegol__,   
+_Devops Engineer Consultant_
+
+Consulting in architecture and development of artifacts on AWS, management and infrastructure cost analysis.
+
+Key Technologies: Linux, AWS, Github, CI/CD, Docker.
+
 
 
 
