@@ -102,7 +102,7 @@ _Technical support_
 
 ## Languages
 
-__English__ - Advanced
+__English__ - Intermediate
 
 
 ## Other Information
