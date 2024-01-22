@@ -34,8 +34,16 @@ Passionate about Linux and coffee. I am a Devops Engineer, consultant and instru
 
 ## Professional activities
 
+`Fev 2024 - now`
 
-`Jan 2023 - now`
+__Critical Tech Works__,   
+_Devops Engineer_
+
+Key Technologies: Linux, AWS, CI/CD, Docker, Scrum, Kubernetes.
+
+
+
+`Jan 2023 - Jan 2024`
 
 __Certi__,   
 _Devops Engineer_
