@@ -4,7 +4,7 @@ title: Thaynara Mendes
 ---
 
 # Thaynara Mendes
-Linux Enthusiast | Devops Engineer.
+Linux Enthusiast | Devops Engineer
 
 <div id="webaddress">
 <a href="https://thaycafe.github.io/cv/ThaynaraMendes_CV.pdf">[Download CV in PDF]</a>
@@ -24,7 +24,7 @@ Passionate about Linux and coffee. I am a Devops Engineer, consultant and instru
 
 ## Operational skills
 
-> Linux ; Git ; Python ; Docker ; Ansible ; Elasticsearch ; Logstash ; Kibana ; AWS ; Graylog ; Prometheus ; Grafana ; Terraform ; Kubernetes ; CI/CD ; Bitbucket ; Jenkins ; 
+> Linux ; Git ; Python ; Docker ; Ansible ; Terraform ; Elasticsearch ; Logstash ; Kibana ; AWS ; Graylog ; Prometheus ; Grafana ; Kubernetes ; CI/CD ; Bitbucket ; Jenkins ; 
 
 
 ## Education
@@ -39,7 +39,11 @@ Passionate about Linux and coffee. I am a Devops Engineer, consultant and instru
 __Critical Tech Works__,   
 _Devops Engineer_
 
-Key Technologies: Linux, AWS, CI/CD, Docker, Scrum, Kubernetes.
+- Manage AWS infrastructure with terraform
+- Development with Python and Shell script
+- Security management
+
+Key Technologies: Linux, AWS, CI/CD, Docker, Scrum, Terraform.
 
 
 
@@ -55,7 +59,7 @@ Key Technologies: Linux, AWS, BitBucket, CI/CD, Docker, Scrum, Kubernetes.
 
 
 
-`Jun 2023 - now`
+`Jun 2023 - March 2024`
 
 __Beegol__,   
 _Devops Engineer Consultant_
@@ -97,7 +101,6 @@ _Python development_
 __Configr__
 _Technical support_
 
-- Migration Support
 - Ticket service from the migration team
 - Website configuration on Linux servers
 
@@ -110,7 +113,8 @@ _Technical support_
 
 ## Languages
 
-__English__ - Intermediate
+__English__ - B1
+__Portuguese__ - Native
 
 
 ## Other Information
