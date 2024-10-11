@@ -47,7 +47,7 @@ Key Technologies: Linux, AWS, CI/CD, Docker, Scrum, Terraform.
 
 
 
-`Jan 2023 - Jan 2024`
+`Sep 2022 - Jan 2024`
 
 __Certi__,   
 _Devops Engineer_
@@ -71,7 +71,7 @@ Key Technologies: Linux, AWS, Github, CI/CD, Docker.
 
 
 
-`September 2020 - December 2022`
+`September 2020 - September 2022`
 
 __4linux__,   
 _Devops Analyst_
