@@ -109,11 +109,12 @@ _Technical support_
 ## Certified
 
 `2021`  _LPIC-1 Linux Admnistrador_
+`2024`  _Terraform Associate_
 
 
 ## Languages
 
-__English__ - B1
+__English__ - B2
 __Portuguese__ - Native
 
 
