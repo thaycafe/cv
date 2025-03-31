@@ -109,6 +109,7 @@ _Technical support_
 ## Certified
 
 `2021`  _LPIC-1 Linux Admnistrador_
+
 `2024`  _Terraform Associate_
 
 
