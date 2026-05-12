@@ -108,9 +108,11 @@ _Technical support_
 
 ## Certified
 
-`2021`  _LPIC-1 Linux Admnistrador_
+`2026`  _AWS Certified Solutions Architect Associate_
 
 `2024`  _Terraform Associate_
+
+`2021`  _LPIC-1 Linux Admnistrador_
 
 
 ## Languages
